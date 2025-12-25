@@ -22,7 +22,8 @@ if a == 0 :
    print("a = ",True)
 print("b = ",b)
 print("c = ",True + True)
-print("d = ",False + 9)```
+print("d = ",False + 9)
+```
 
 ## Output
 <img width="576" height="359" alt="image" src="https://github.com/user-attachments/assets/9e415222-be50-4235-b912-ef8d8e17e33a" />
